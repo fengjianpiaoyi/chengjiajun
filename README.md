@@ -6,7 +6,7 @@
 
 
 
-3.Your implementation of the tasks you hve done this week:Get the skill of using Git,become familiar with the common commands.
+3.Your implementation of the tasks you have done this week:Get the skill of using Git,become familiar with the common commands.
 
 
 4.Unsolved problems:Still get confused about how to get connected with the server.
