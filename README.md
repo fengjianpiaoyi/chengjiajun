@@ -12,4 +12,4 @@
 4.Unsolved problems:Still get confused about how to get connected with the server.
 
 
-5.Plan for next week:Considering that I have a poor understanding of system development,I decide to use more time to learn the related knowlege.So I plan to use at least 20 hours of my holiday to strengthen my skil of coding C and get a good commmand of linux.The primary goal is to finish the 2.5week's task.
+5.Plan for next week:Considering that I have a poor understanding of system development,I decide to use more time to learn the related knowlege.So I plan to use at least 20 hours of my holiday to strengthen my skill of coding C and get a good commmand of linux.The primary goal is to finish the 2.5week's task.
